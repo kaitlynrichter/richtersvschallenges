@@ -1,0 +1,30 @@
+{
+    "name": "richters-vs-challenges-",
+    "dependencies": {
+        "device": "*",
+        "color-coded-tilemap": "*"
+    },
+    "files": [
+        ".vscode/settings.json",
+        ".vscode/tasks.json",
+        "README.md",
+        "assets.json",
+        "main.blocks",
+        "main.ts",
+        "test.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "tsconfig.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.4.43",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
