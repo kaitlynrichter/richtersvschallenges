@@ -1,5 +1,5 @@
 {
-    "name": "richters-vs-challenges-",
+    "name": "richtersvschallenges-",
     "dependencies": {
         "device": "*",
         "color-coded-tilemap": "*"
